@@ -1,0 +1,1 @@
+bash 1-login.sh -f && bash 2-search-train.sh -f && bash 3-get-chair-seat.sh -f && bash 4-reserved-seat.sh -f && bash 5-otp-generate-and-verify.sh -f && bash 6-confirm-ticket.sh -f

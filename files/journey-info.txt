@@ -1,0 +1,15 @@
+{
+  "username": "01748141648",
+  "phone": "01748141648",
+  "password": "Rock@1234",
+  "email": "rakibccj@gmail.com",
+  "from_city": "Jashore",
+  "destination_city": "Dhaka",
+  "journey_date": "15-Jun-2025",
+  "number_of_seat": 3,
+  "desired_seat_type": "SNIGDHA",
+  "desired_train": "RUPOSHI BANGLA EXPRESS",
+  "passenger_names": ["MD. AKTARUZZAMAN RAKIB","FARZANA YESMIN","RUQAYYAH BINT RAKIB"],
+  "passenger_genders": ["male", "female","female"],
+  "passenger_types":["Adult","Adult","Child"]
+}

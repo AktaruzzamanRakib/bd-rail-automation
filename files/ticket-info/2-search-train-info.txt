@@ -1,0 +1,31 @@
+{
+  "trip_number": "RUPOSHI BANGLA EXPRESS (827)",
+  "departure_date_time_jd": "Sun, 08 Jun 2025, 04:15 PM",
+  "origin_city_name": "jashore",
+  "destination_city_name": "dhaka",
+  "seat_types": [
+    {
+      "type": "S_CHAIR",
+      "trip_id": 8439163,
+      "trip_route_id": 53585506,
+      "route_id": 26976
+    },
+    {
+      "type": "SNIGDHA",
+      "trip_id": 8439176,
+      "trip_route_id": 53585671,
+      "route_id": 26976
+    },
+    {
+      "type": "AC_S",
+      "trip_id": 8439189,
+      "trip_route_id": 53585778,
+      "route_id": 26976
+    }
+  ],
+  "boarding_points": [
+    {
+      "trip_point_id": 108329170
+    }
+  ]
+}
